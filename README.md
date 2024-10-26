@@ -1,18 +1,10 @@
-# create-svelte
+# [fun-svelte](https://fun-svelte-chi.vercel.app/)
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+This website was built for beginners to explore Svelte. Open-sourced on GitHub and deployed on Vercel.
 
-## Creating a project
+## Forking my project
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+If you want to fork my project, you can do so by clicking the "Fork" button on the top right of the page. This will create a copy of the project in your own GitHub account.
 
 ## Developing
 

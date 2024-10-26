@@ -21,4 +21,5 @@
     <h1 id="primary">Other pages</h1>
     <a href="/" id="button">Home</a>
     <a href="/fun" id="button">Fun</a>
+    <a href="https://github.com/LarryEmerson12/fun-svelte" id="button">Github</a>
   </div>
